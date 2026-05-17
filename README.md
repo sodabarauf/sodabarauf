@@ -1,9 +1,6 @@
 <!-- HERO -->
 <h1 align="center">Sodaba Rauf</h1>
 
-<p align="center">
-Frontend Developer • UI Engineer • Problem Solver
-</p>
 
 <p align="center">
 I build clean, responsive, and user-focused web applications with modern technologies.
