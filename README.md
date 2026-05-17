@@ -63,6 +63,3 @@ Git • GitHub • VS Code • Figma • REST APIs
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting ⭐
-</p>
