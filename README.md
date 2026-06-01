@@ -55,7 +55,7 @@ Git • GitHub • VS Code • Figma • REST APIs
 
 ---
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: sodabarauf4@gmail.com
 - 🌍 Available for freelance and remote opportunities  
 
 ---
