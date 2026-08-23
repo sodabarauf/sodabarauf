@@ -62,6 +62,78 @@ I enjoy turning ideas into real products using clean UI design and scalable fron
 
 ---
 
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Project Name One</h4>
+      <p>Short one- or two-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <br/>
+      <a href="#">🔗 Live Demo</a> · <a href="#">💻 Source Code</a>
+    </td>
+    <td width="50%">
+      <h4>Project Name Two</h4>
+      <p>Short one- or two-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br/>
+      <a href="#">🔗 Live Demo</a> · <a href="#">💻 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>Project Name Three</h4>
+      <p>Short one- or two-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/>
+      <a href="#">🔗 Live Demo</a> · <a href="#">💻 Source Code</a>
+    </td>
+    <td width="50%">
+      <h4>Project Name Four</h4>
+      <p>Short one- or two-line description of what it does and the problem it solves.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <br/>
+      <a href="#">🔗 Live Demo</a> · <a href="#">💻 Source Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience
+
+<table>
+  <tr>
+    <td>🏢</td>
+    <td>
+      <b>Frontend Developer</b> — Company / Organization Name<br/>
+      <sub>Month Year – Present</sub>
+      <ul>
+        <li>Built and maintained responsive UI components using React and Tailwind CSS.</li>
+        <li>Collaborated with designers to translate Figma mockups into production-ready code.</li>
+        <li>Improved page load performance and accessibility across key pages.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td>
+      <b>Freelance / Personal Projects</b><br/>
+      <sub>Month Year – Month Year</sub>
+      <ul>
+        <li>Delivered frontend solutions for small business and portfolio clients.</li>
+        <li>Practiced backend fundamentals by building REST API integrations.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### GitHub Stats
 
 <p align="center">
