@@ -59,25 +59,6 @@ I enjoy turning ideas into real products using clean UI design and scalable fron
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sodabarauf&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodabarauf&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sodabarauf&theme=tokyo-night" />
-</p>
-
-> If these don't render for you, see the note on self-hosting below.
-
----
-
-> "Simplicity is the ultimate sophistication in UI design."
-
----
-
 ### Contact
 
 - 📧 **Email:** sodabarauf4@gmail.com
