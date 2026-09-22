@@ -1,35 +1,55 @@
 <h1 align="center">Hi, I'm Sodaba Rauf 👋</h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong> · Building clean, responsive & accessible web experiences
+  Frontend Developer · React · Next.js · TypeScript
+</p>
+
+<p align="center">
+  I build clean, responsive, and accessible web applications with a focus on thoughtful UI and maintainable code.
 </p>
 
 <p align="center">
   <a href="mailto:sodabarauf4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/sodabarauf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a **Frontend Developer** focused on creating modern, accessible, and responsive web applications.
+I'm a frontend developer who enjoys turning designs and ideas into real, usable products.
 
-I enjoy turning ideas and designs into practical products with clean code, thoughtful UI, and maintainable frontend architecture.
+I care about the details — from responsive layouts and accessible interfaces to clean component structure and maintainable code. Alongside frontend development, I'm expanding my knowledge of **backend development and AI engineering** to better understand how modern applications work end to end.
 
-* ⚡ Focused on **performance, accessibility, and responsive design**
-* 🎨 Enjoy building clean and user-friendly interfaces
-* 🧩 Interested in scalable frontend architecture and reusable components
-* 🌱 Continuously improving my problem-solving and backend fundamentals
-* 🤝 Open to collaboration, freelance, and remote opportunities
+* 💻 Building with React, Next.js, and TypeScript
+* 🎨 Interested in clean UI/UX and design systems
+* ⚡ Focused on performance, accessibility, and maintainable code
+* 🤖 Learning about AI engineering and AI-powered applications
+* 🔧 Building a stronger foundation in backend development
+* 🌱 Continuously improving my technical and problem-solving skills
+* 🤝 Open to collaboration and remote opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm Working On
+
+I'm currently focused on growing beyond frontend development and building a broader understanding of modern software development.
+
+I'm learning and improving my skills in:
+
+* Modern Next.js application architecture
+* Type-safe frontend development
+* Backend development and API design
+* Testing and reliable software practices
+* AI engineering and AI-powered applications
+* Performance and accessibility
+* Building and integrating real-world APIs
+
+I enjoy learning by building real projects, working with others, reviewing code, and exploring how different parts of a product come together.
+
+
+## Tech Stack
 
 ### Languages
 
@@ -48,7 +68,7 @@ I enjoy turning ideas and designs into practical products with clean code, thoug
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Tools & Development
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -60,36 +80,15 @@ I enjoy turning ideas and designs into practical products with clean code, thoug
 
 ---
 
-## 🚀 What I Work On
 
-* Responsive web applications
-* Component-based frontend development
-* Modern React & Next.js applications
-* Accessible and reusable UI components
-* REST API integration
-* Frontend performance optimization
-* Clean and maintainable code
-
----
-
-## 📌 Currently
-
-🌱 Deepening my knowledge of **Next.js, TypeScript, frontend architecture, testing, and backend fundamentals.**
-
-💡 I enjoy learning by building real projects and solving practical problems.
-
----
-
-## 📫 Let's Connect
-
-If you'd like to collaborate, discuss a project, or have an opportunity that might be a good fit, feel free to reach out.
+## Contact
 
 <p>
   <a href="mailto:sodabarauf4@gmail.com">
-    <strong>📧 Email me</strong>
+    📧 sodabarauf4@gmail.com
   </a>
 </p>
 
 <p align="center">
-  <sub>Building thoughtfully. Learning continuously. 🚀</sub>
+  <i>Building, learning, and improving one project at a time.</i>
 </p>
