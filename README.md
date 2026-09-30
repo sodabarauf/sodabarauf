@@ -9,14 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:sodabarauf4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Open_to-Remote_Work-22C55E?style=for-the-badge" alt="Open to remote work" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-6366F1?style=for-the-badge" alt="Open to collaboration" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
